@@ -8,7 +8,7 @@
 
 - 👨‍💻 All of my projects are available at [https://inspiring-kitsune-505a69.netlify.app/](https://inspiring-kitsune-505a69.netlify.app/)
 
-- 💬 Ask me about **HTML , CSS , JavaScript , React.**
+- 💬 Ask me about **HTML , CSS , JavaScript , React , Node Js , MCP server , Playwright**
 
 - 📫 How to reach me **asmityadav3@gmail.com**
 
